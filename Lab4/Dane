@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "$x 68"
+echo "$napis tresc napisu"
+
+

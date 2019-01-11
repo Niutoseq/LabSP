@@ -1,0 +1,5 @@
+#!/bin/bash
+
+imie="niuta"
+nazwisko="Godlewska"
+echo $imie $nazwisko
